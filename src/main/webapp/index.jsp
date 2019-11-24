@@ -55,7 +55,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page</title>
+        <title>Weblogic Domain Information by LMA</title>
     </head>
     <body>
         <h1>WebLogic Server on Docker - Request Information</h1>
